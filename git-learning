@@ -1,3 +1,55 @@
 learning github from this video today 
 https://www.youtube.com/watch?v=YbX_5FTOgL8
 
+GitHub for Normal Humans ☕
+
+New Repository → "New Folder"
+"Just a fancy empty box for your code. Like a fresh Notes app, but for nerds."
+
+Commit → "Save with Receipt"
+"Ctrl+S, but you gotta write a note like ‘Fixed the thing (hopefully).’"
+
+Fork → "Copy-Paste Forever"
+"Steal someone’s project (legally!) to tweak it without guilt."
+
+GitHub Issues → "Complaint Box"
+"Where you yell ‘IT BROKE’ or politely ask for new features."
+
+Pull Request (PR) → "Plz Merge My Stuff"
+"Send your changes to the main project and pray no one roasts your code."
+
+Branch → "Parallel Universe"
+"Where you experiment wildly without breaking the ‘real’ code."
+
+Clone → "Download But Fancy"
+"Git’s way of saying ‘right-click, Save As.’"
+
+Merge → "Combine Without Tears"
+"Smoosh two versions together and hope Git doesn’t start a fight."
+
+Remote → "The Cloud (But Scarier)"
+"Where your code lives when it’s not hiding on your laptop."
+
+Push → "Upload with Extra Steps"
+"Syncing your work to GitHub so teammates stop DM-ing ‘where’s the code??’"
+
+Pull → "Download Everyone Else’s Work"
+"Grabbing the latest updates before your code becomes ancient history."
+
+Commit Message → "Apology Note"
+"‘Fixed bug’ = ‘I have no idea what I did but it works now.’"
+
+Checkout → "Time Travel Lite"
+"Switch between branches or old versions like flipping TV channels."
+
+Rebase → "Rewrite History (But Legal)"
+"Pretend your work happened after everyone else’s to avoid merge drama."
+
+Stash → "Code Timeout"
+"Hide your half-baked changes to deal with emergencies (or lunch)."
+
+.gitignore → "Secret Keeper"
+"A list of files you never want GitHub to see (passwords, cat pics, etc.)."
+
+
+
